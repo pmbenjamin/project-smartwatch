@@ -1,5 +1,4 @@
-# project-smartwatch
-Project: Smartwatch
+# Project: Smartwatch
 
-## Ideas
+## Ideas/Research
 See [ideas](IDEAS.md)
